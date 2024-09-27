@@ -1,0 +1,15 @@
+{
+  "frames": [
+    {"filename": "package", "frame": {"x": 0, "y": 0, "w": 300, "h": 405}},
+    {"filename": "part1", "frame": {"x": 300, "y": 0, "w": 300, "h": 405}},
+    {"filename": "part2", "frame": {"x": 600, "y": 0, "w": 300, "h": 405}}
+  ],
+  "meta": {
+    "app": "Phaser 3",
+    "version": "1.0",
+    "image": "roze.png",
+    "format": "RGBA8888",
+    "size": {"w": 900, "h": 405},
+    "scale": 1
+  }
+}

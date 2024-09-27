@@ -1,0 +1,47 @@
+{
+  "language": "ro",
+  "languages": {
+    "pl": {
+      "btnRules": "ZASADY",
+      "btnRank": "RANKING",
+      "btnPlay": "ZAGRAJ",
+      "c": "MENU",
+      "btnRestart": "RESTART",
+      "title": "Jak grać?",
+      "rules_part_1_desktop": "Przesuwaj palcem po ekranie tak, aby przeciąć jak najwięcej paczek Ploom.",
+      "rules_part_1_mobile": "Przesuwaj kursorem tak, aby przeciąć jak najwięcej paczek Ploom.",
+      "rules_part_2": "Przecinając kilka paczek na raz zyskujesz bonus punktowy!",
+      "rules_part_3": "Unikaj dynamitu! Gra kończy się jeśli go przetniesz.",
+      "rules_part_4": "Nie puszczaj paczek! Po 5 nieprzeciętnych paczkach gra również się zakończy.",
+      "ranking": "Ranking będzie umieszczany \ni aktualizowany na JTI GO \nw sekcji Wiadomości."
+    },
+    "en": {
+      "btnRules": "GAME RULES",
+      "btnRank": "RANK",
+      "btnPlay": "PLAY",
+      "btnMenu": "MENU",
+      "btnRestart": "Restart",
+      "title": "How to Play? ",
+      "rules_part_1_desktop": "Move the cursor to cut through as many Ploom packs as possible.",
+      "rules_part_1_mobile": "Slide your finger across the screen to cut through as many Ploom packs as possible.",
+      "rules_part_2": "By cutting through several packs at once you gain a point bonus!",
+      "rules_part_3": "Avoid the dynamite! The game ends if you cut it.",
+      "rules_part_4": "Do not let go of the packs! After 5 uncut packs, the game will also end.",
+      "ranking": "The ranking will \nbe posted and updated on JTI GO\nin the News section."
+    },
+    "ro": {
+      "btnRules": "REGULILE JOCULUI",
+      "btnRank": "CLASAMENT",
+      "btnPlay": "START",
+      "btnMenu": "MENIU",
+      "btnRestart": "RESTART",
+      "title": "Cum se Joacă?",
+      "rules_part_1_desktop": "Mutați cursorul pentru a tăia cât mai multe pachete Ploom.",
+      "rules_part_1_mobile": "Glisați degetul pe ecran pentru a tăia cât mai multe pachete Ploom.",
+      "rules_part_2": "Prin tăierea mai multor pachete odată, obțineți un bonus de puncte!",
+      "rules_part_3": "Evitați dinamita! Jocul se încheie dacă o tăiați.",
+      "rules_part_4": "Nu lăsați pachetele! După 5 pachete netăiate, jocul se va încheia.\n\n",
+      "ranking": "Clasamentul va fi afișat și \nactualizat pe www.jti-partener.ro."
+    }
+  }
+}
